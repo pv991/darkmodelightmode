@@ -71,7 +71,7 @@ class _MyAppState extends State<MyApp> {
               Text("LIGHT MODE SELECTED",
                 style: TextStyle(
                   fontWeight: FontWeight.bold,
-                  fontSize: 20,
+                   fontSize: 20,
                   color: textcolor,
                 ),)
             ],
